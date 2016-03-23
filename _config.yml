@@ -1,0 +1,28 @@
+name: FordsResidential
+favicon: null
+layout_spectrum: 0.2673240462318063
+typography_spectrum: 0.008253216277807951
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6361810881644487
+  lightness: 0.1371489919256419
+  saturation: 0.9173390734940767
+  rhythmicContrast: 0.4594212402589619
+purpose: []
