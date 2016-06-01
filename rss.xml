@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FordsResidential]]></title>
+        <description><![CDATA[FordsResidential]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 01 Jun 2016 11:31:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Furnished rental at fordsresidential]]></title>
+            <description><![CDATA[<article><h1>Furnished rental at fordsresidential</h1><p>www.FordsResidential.com This is an example of one of my furnished rentals here at FordsResidential. As you can see the video was done hurriedly and I apologize for the quality. I have had many people ask to see what they would be renting. I will improve my video skills as I go.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18bc8a67a18834eddc60a42d1ef4b917aa7f0d38.jpg"></article>]]></description>
+            <link>https://youtu.be/1gumm66NSJI</link>
+            <guid isPermaLink="false">4e17f07b-a6f1-4803-8713-909159453737</guid>
+            <pubDate>Wed, 01 Jun 2016 11:31:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
